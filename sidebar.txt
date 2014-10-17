@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wkl:home|Door43 (wkl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wkl|d43-wkl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wkl/archive/master.zip|d43-wkl.zip]]
+
+**Recent Changes**
+{{changes>ns = wkl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wkl|Ethnologue data]]
+
